@@ -1,0 +1,16 @@
+{
+  "name": "exercise_compute_intrest",
+  "version": "1.0.0",
+  "main": "callback_hell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "sync": "^0.2.5"
+  },
+  "devDependencies": {},
+  "description": ""
+}

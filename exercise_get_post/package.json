@@ -1,0 +1,24 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yugam-debut/node_training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yugam-debut/node_training/issues"
+  },
+  "homepage": "https://github.com/yugam-debut/node_training#readme",
+  "dependencies": {
+    "sync": "^0.2.5"
+  },
+  "devDependencies": {},
+  "description": ""
+}
